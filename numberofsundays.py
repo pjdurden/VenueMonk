@@ -1,3 +1,7 @@
+#Prajjwal Chittori
+#Delhi Technological University(2k18/co/249)
+#8700694107
+#prajjwalchittori_2k18co249@dtu.ac.in
 from typing import List
 import math
 class Solution:
